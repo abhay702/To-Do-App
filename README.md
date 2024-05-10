@@ -6,17 +6,17 @@ BudgetBliss is an Android application designed to empower you to take control of
 
 ## Screenshots
  
-![image](https://github.com/abhay702/To-Do-App/assets/106369018/4c7e89c9-4361-4af7-b0a8-fb44e8a9d844 width="500")
+![image](https://github.com/abhay702/To-Do-App/assets/106369018/4c7e89c9-4361-4af7-b0a8-fb44e8a9d844)
 
-![image](https://github.com/abhay702/To-Do-App/assets/106369018/971cd75d-8ee8-48d9-a51b-01180f1fe760 width="500")
+![image](https://github.com/abhay702/To-Do-App/assets/106369018/971cd75d-8ee8-48d9-a51b-01180f1fe760)
 
-![image](https://github.com/abhay702/To-Do-App/assets/106369018/97acb6d9-9049-422c-a2c2-3392828b843e width="500")
+![image](https://github.com/abhay702/To-Do-App/assets/106369018/97acb6d9-9049-422c-a2c2-3392828b843e)
 
-![image](https://github.com/abhay702/To-Do-App/assets/106369018/2e401e92-f208-4feb-9a77-51fd9c54bb6d width="500")
+![image](https://github.com/abhay702/To-Do-App/assets/106369018/2e401e92-f208-4feb-9a77-51fd9c54bb6d)
 
-![image](https://github.com/abhay702/To-Do-App/assets/106369018/34a25e92-f56f-4587-a89e-210ecda1ad69 width="500")
+![image](https://github.com/abhay702/To-Do-App/assets/106369018/34a25e92-f56f-4587-a89e-210ecda1ad69)
 
-![image](https://github.com/abhay702/To-Do-App/assets/106369018/6d637c1b-2857-49bd-97ea-a80852cd383e width="500")
+![image](https://github.com/abhay702/To-Do-App/assets/106369018/6d637c1b-2857-49bd-97ea-a80852cd383e)
 
 
 
