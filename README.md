@@ -42,13 +42,10 @@ We can also build the app in the android studio once the code has been clonned.
 • Data Security: Utilizing Firebase, the application ensures the security and privacy of user financial data.
 ## Acknowledgements
 
-1. B. Burd, "Android Application Development All-In-One for Dummies," Wiley, 2017.
-2. Android Developers, "VideoView," Available: https://developer.android.com/reference/android/widget/VideoView
-3. Stack Overflow, "Playing a video in VideoView in Android," Available: https://stackoverflow.com/questions/3263736/playing-a-video-in-videoview-in-android
-4. Android Developers, "Wake Lock (PowerManager.WakeLock)," Available: https://developer.android.com/training/scheduling/wakelock
-5. Android Developers, "Improving Layouts with <include>," Available: https://developer.android.com/develop/ui/views/layout/improving-layouts/reusing-layouts
-6. Android Developers, "Reusing Layouts with <include>," Available: https://developer.android.com/develop/ui/views/layout/improving-layouts/reusing-layouts
-7. GeeksforGeeks, "How to create and add data to SQLite database in Android," Available: https://www.geeksforgeeks.org/how-to-create-and-add-data-to-SQLite-database-in-android/
-8. Firebase, "Firebase Android Setup," Available: https://firebase.google.com/docs/android/setup
-9. Android Developers, "CardView," Available: https://developer.android.com/develop/ui/views/layout/cardview
-10. GeeksforGeeks, "ScrollView in Android," Available: https://www.geeksforgeeks.org/scrollview-in-android/
+
+1. Android Developers, "Improving Layouts with <include>," Available: https://developer.android.com/develop/ui/views/layout/improving-layouts/reusing-layouts
+2. Android Developers, "Reusing Layouts with <include>," Available: https://developer.android.com/develop/ui/views/layout/improving-layouts/reusing-layouts
+3. GeeksforGeeks, "How to create and add data to SQLite database in Android," Available: https://www.geeksforgeeks.org/how-to-create-and-add-data-to-SQLite-database-in-android/
+4. Firebase, "Firebase Android Setup," Available: https://firebase.google.com/docs/android/setup
+5. Android Developers, "CardView," Available: https://developer.android.com/develop/ui/views/layout/cardview
+6. GeeksforGeeks, "ScrollView in Android," Available: https://www.geeksforgeeks.org/scrollview-in-android/
